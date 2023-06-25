@@ -1,5 +1,4 @@
-Chapter 5: Organizational Change and Conflict Prevention: Addressing Systemic Issues Underlying Conflict
-========================================================================================================
+# Addressing Systemic Issues Underlying Conflict
 
 Organizational change can lead to conflict, but conflicts can also arise due to underlying systemic issues within an organization. In this chapter, we will discuss how organizations can address these issues to prevent conflicts.
 

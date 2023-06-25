@@ -1,5 +1,4 @@
-Chapter 3: Communication Strategies: Encouraging Open and Honest Communication
-==============================================================================
+# Encouraging Open and Honest Communication
 
 Effective communication is essential for managing conflicts in organizations. In this chapter, we will explore strategies for encouraging open and honest communication to prevent conflicts from escalating and promoting constructive conflict resolution.
 

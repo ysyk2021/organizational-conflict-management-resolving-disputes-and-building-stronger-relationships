@@ -1,5 +1,4 @@
-Chapter 7: Leadership Support: The Role of Leadership in Supporting Organizational Conflict Management
-======================================================================================================
+# The Role of Leadership in Supporting Organizational Conflict Management
 
 Leadership support is essential for promoting effective organizational conflict management. In this chapter, we will discuss the role of leadership in supporting conflict resolution within an organization.
 

@@ -1,5 +1,4 @@
-Chapter 2: The Impact of Organizational Conflict on Workplace Culture and Organizational Success: Understanding the Impact of Organizational Conflict on Workplace Culture and Organizational Success
-=====================================================================================================================================================================================================
+# Understanding the Impact of Organizational Conflict on Workplace Culture and Organizational Success
 
 Organizational conflict can have a significant impact on workplace culture and organizational success. In this chapter, we will explore the ways in which organizational conflict can impact workplace culture and organizational success.
 

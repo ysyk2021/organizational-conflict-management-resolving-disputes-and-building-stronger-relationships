@@ -1,5 +1,4 @@
-Chapter 2: The Impact of Organizational Conflict on Workplace Culture and Organizational Success: The Costs of Ignoring Organizational Conflict
-===============================================================================================================================================
+# The Costs of Ignoring Organizational Conflict
 
 Ignoring organizational conflict can have significant costs for organizations. In this chapter, we will explore the costs associated with ignoring organizational conflict.
 

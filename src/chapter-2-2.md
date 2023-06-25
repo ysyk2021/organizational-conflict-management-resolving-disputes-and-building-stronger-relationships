@@ -1,5 +1,4 @@
-Chapter 1: Defining Organizational Conflict: The Causes and Consequences of Organizational Conflict
-===================================================================================================
+# The Causes and Consequences of Organizational Conflict
 
 Organizational conflict can arise from various sources within an organization and can have significant impacts on workplace culture and organizational success. In this chapter, we will explore the causes and consequences of organizational conflict.
 

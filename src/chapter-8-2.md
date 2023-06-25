@@ -1,5 +1,4 @@
-Chapter 7: Leadership Support: Fostering a Culture of Conflict Resolution
-=========================================================================
+# Fostering a Culture of Conflict Resolution
 
 Leadership support is essential in promoting effective organizational conflict management. In this chapter, we will discuss how leaders can foster a culture of conflict resolution within their organizations.
 

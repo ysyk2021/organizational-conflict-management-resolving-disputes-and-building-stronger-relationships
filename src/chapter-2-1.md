@@ -1,5 +1,4 @@
-Chapter 1: Defining Organizational Conflict: What is Organizational Conflict?
-=============================================================================
+# What is Organizational Conflict?
 
 Organizational conflict is a common occurrence within organizations and can arise from a variety of sources. Understanding the nature of organizational conflict is essential for effective conflict management and building stronger relationships among employees.
 

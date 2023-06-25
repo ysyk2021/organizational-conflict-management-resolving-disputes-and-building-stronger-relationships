@@ -1,5 +1,4 @@
-Chapter 1: Defining Organizational Conflict: Examples of Organizational Conflict in Practice
-============================================================================================
+# Examples of Organizational Conflict in Practice
 
 Organizational conflict can arise in various forms within an organization. In this chapter, we will define organizational conflict and provide examples of organizational conflict in practice.
 

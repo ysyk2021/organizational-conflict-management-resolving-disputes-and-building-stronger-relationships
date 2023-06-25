@@ -1,5 +1,4 @@
-Chapter 4: Negotiation and Mediation: Understanding Negotiation and Mediation Techniques
-========================================================================================
+# Understanding Negotiation and Mediation Techniques
 
 Negotiation and mediation are essential conflict resolution strategies that can help parties reach a mutually acceptable solution. In this chapter, we will discuss some negotiation and mediation techniques that can be used to effectively resolve conflicts.
 

@@ -1,5 +1,4 @@
-Chapter 4: Negotiation and Mediation: Building Consensus and Finding Win-Win Solutions
-======================================================================================
+# Building Consensus and Finding Win-Win Solutions
 
 Negotiation and mediation are two common approaches to resolving conflicts in organizations. These techniques can be used to build consensus, find win-win solutions, and enhance relationships among employees. In this chapter, we will explore the key principles and techniques of negotiation and mediation.
 

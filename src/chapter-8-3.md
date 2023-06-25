@@ -1,5 +1,4 @@
-Chapter 7: Leadership Support: Addressing Challenges and Setbacks
-=================================================================
+# Addressing Challenges and Setbacks
 
 Leadership support is essential in promoting effective organizational conflict management. In this chapter, we will discuss how leaders can address challenges and setbacks in implementing conflict resolution strategies.
 

@@ -1,5 +1,4 @@
-Chapter 6: Implementation: Measuring the Effectiveness of Organizational Conflict Management Strategies
-=======================================================================================================
+# Measuring the Effectiveness of Organizational Conflict Management Strategies
 
 Effective conflict management in organizations requires the implementation of strategies that are tailored to the specific needs and context of the organization. In this chapter, we will explore strategies for measuring the effectiveness of organizational conflict management strategies.
 

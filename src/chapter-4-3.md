@@ -1,5 +1,4 @@
-Chapter 3: Communication Strategies: Using Effective Feedback Techniques
-========================================================================
+# Using Effective Feedback Techniques
 
 Effective communication is essential for managing conflicts in organizations. In this chapter, we will explore strategies for using effective feedback techniques to promote constructive conflict resolution.
 

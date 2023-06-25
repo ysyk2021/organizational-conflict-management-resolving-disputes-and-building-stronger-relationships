@@ -1,5 +1,4 @@
-Chapter 6: Implementation: Overcoming Barriers to Effective Implementation
-==========================================================================
+# Overcoming Barriers to Effective Implementation
 
 Implementing conflict resolution strategies can be challenging, but it is vital for promoting effective organizational conflict management. In this chapter, we will discuss how organizations can overcome barriers to effective implementation.
 

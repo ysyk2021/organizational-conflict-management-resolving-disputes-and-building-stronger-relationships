@@ -1,5 +1,4 @@
-Chapter 4: Negotiation and Mediation: Identifying Common Interests and Goals
-============================================================================
+# Identifying Common Interests and Goals
 
 Negotiation and mediation are important conflict resolution strategies that can help parties identify common interests and goals. In this chapter, we will discuss the benefits of negotiation and mediation and how they can be used to resolve conflicts.
 

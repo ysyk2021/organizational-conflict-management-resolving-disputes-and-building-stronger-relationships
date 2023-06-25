@@ -1,5 +1,4 @@
-Chapter 2: The Impact of Organizational Conflict on Workplace Culture and Organizational Success: The Risks to Employee Morale, Productivity, and Retention
-===========================================================================================================================================================
+# The Risks to Employee Morale, Productivity, and Retention
 
 Organizational conflict can have a significant impact on workplace culture and organizational success. In this chapter, we will explore the risks posed by organizational conflict to employee morale, productivity, and retention.
 

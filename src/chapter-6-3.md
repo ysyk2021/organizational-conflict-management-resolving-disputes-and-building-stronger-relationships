@@ -1,5 +1,4 @@
-Chapter 5: Organizational Change and Conflict Prevention: Creating a Culture of Conflict Resolution
-===================================================================================================
+# Creating a Culture of Conflict Resolution
 
 Organizational change and conflict prevention are essential in promoting effective conflict resolution within an organization. In this chapter, we will discuss how organizations can create a culture of conflict resolution to prevent conflicts from arising.
 
