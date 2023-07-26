@@ -17,5 +17,3 @@ Importance of Resolving Disputes and Building Stronger Relationships
 --------------------------------------------------------------------
 
 Building stronger relationships is key to organizational success. Employees who feel supported, engaged, and valued are more likely to be productive, motivated, and committed to the organization's goals. By investing in effective conflict management practices, organizations can build stronger relationships among employees, enhance productivity and innovation, reduce turnover and absenteeism, and enhance organizational reputation and brand value.
-
-In the following chapters, we will delve deeper into the definition of organizational conflict, its various types, causes, and consequences. We will also explore the importance of effective communication, collaboration, and problem-solving in managing conflicts, as well as practical tips and techniques for resolving disputes and building stronger relationships among employees.
