@@ -1,4 +1,3 @@
-# The Role of Leadership in Supporting Organizational Conflict Management
 
 Leadership plays a critical role in creating a supportive environment for effective organizational conflict management. In this chapter, we will explore the importance of leadership in promoting constructive conflict resolution, building stronger relationships, and fostering a culture of collaboration within organizations.
 

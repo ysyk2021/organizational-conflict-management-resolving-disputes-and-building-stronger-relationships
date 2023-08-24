@@ -1,4 +1,3 @@
-# Identifying Common Interests and Goals
 
 Effective organizational conflict management requires identifying and understanding the common interests and goals that stakeholders share. In this chapter, we will explore the significance of identifying common interests and goals in resolving disputes and building stronger relationships within organizations.
 

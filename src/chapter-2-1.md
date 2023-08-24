@@ -1,4 +1,3 @@
-# What is Organizational Conflict?
 
 In this chapter, we will explore the concept of organizational conflict. Conflict is an inevitable part of any organization, and understanding its nature is crucial for effective conflict management. Let's delve into what organizational conflict is and its various dimensions.
 

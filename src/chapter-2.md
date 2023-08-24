@@ -1,5 +1,3 @@
-Chapter 1: Defining Organizational Conflict
-===========================================
 
 Organizational conflict is a common occurrence within organizations that can have significant impacts on workplace culture and organizational success. In this chapter, we will define organizational conflict, explore its causes and consequences, and provide examples of organizational conflict in practice.
 

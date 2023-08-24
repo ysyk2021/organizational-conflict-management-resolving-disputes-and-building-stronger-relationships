@@ -1,5 +1,3 @@
-Chapter 8: Future Directions
-============================
 
 Organizational conflict management is a dynamic field that continues to evolve. In this chapter, we will discuss some of the future directions and emerging trends in the field.
 

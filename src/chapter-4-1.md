@@ -1,4 +1,3 @@
-# Developing Active Listening Skills
 
 Effective communication is essential for managing conflicts in organizations. In this chapter, we will explore strategies for developing active listening skills to promote constructive conflict resolution.
 

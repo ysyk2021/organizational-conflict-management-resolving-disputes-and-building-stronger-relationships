@@ -1,4 +1,3 @@
-# Examples of Organizational Conflict in Practice
 
 In this chapter, we will examine real-life examples of organizational conflict to gain a better understanding of how conflicts can manifest within an organization. By exploring these examples, we can identify common patterns, learn from practical scenarios, and develop insights into effective conflict management strategies. Let's delve into some notable examples of organizational conflict in practice.
 

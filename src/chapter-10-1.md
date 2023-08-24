@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 Effective conflict management is essential for promoting a positive workplace culture and enhancing organizational success. In this book, we have explored various strategies and techniques for managing conflicts in organizations.
 

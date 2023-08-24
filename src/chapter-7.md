@@ -1,5 +1,3 @@
-Chapter 6: Implementation
-=========================
 
 Implementing organizational conflict management strategies is essential in promoting effective conflict resolution within an organization. In this chapter, we will discuss the steps organizations can take to effectively implement conflict resolution strategies.
 

@@ -1,5 +1,3 @@
-Purpose of the Book
-=================================
 
 The purpose of this book is to provide organizations with a comprehensive guide to managing conflicts and building stronger relationships among employees. Organizational conflict can have significant impacts on workplace culture and organizational success, and effective conflict management is essential for promoting a positive workplace culture, enhancing employee engagement and motivation, improving decision-making processes, and building stronger relationships among employees.
 

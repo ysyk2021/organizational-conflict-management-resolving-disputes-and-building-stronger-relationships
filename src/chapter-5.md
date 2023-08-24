@@ -1,5 +1,3 @@
-Chapter 4: Negotiation and Mediation
-====================================
 
 Negotiation and mediation are essential conflict management tools for organizations. In this chapter, we will explore the techniques involved in negotiation and mediation, identifying common interests and goals, and building consensus to find win-win solutions.
 

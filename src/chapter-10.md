@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 Organizational conflicts can be complex and challenging, but they are also inevitable. By effectively managing conflicts, organizations can prevent them from escalating and build stronger relationships among team members. In this book, we have explored various conflict resolution strategies and techniques that can be applied in different organizational settings.
 

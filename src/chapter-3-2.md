@@ -1,4 +1,3 @@
-# The Costs of Ignoring Organizational Conflict
 
 Organizational conflict is a natural and inevitable part of any workplace. However, when conflict is ignored or left unresolved, it can have significant costs that impact the productivity, morale, and overall success of an organization. In this chapter, we will explore the various costs associated with ignoring organizational conflict and highlight the importance of addressing conflicts proactively.
 

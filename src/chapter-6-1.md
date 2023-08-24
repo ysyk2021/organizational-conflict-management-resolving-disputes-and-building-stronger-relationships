@@ -1,4 +1,3 @@
-# Addressing Systemic Issues Underlying Conflict
 
 Resolving conflicts within organizations goes beyond addressing individual disputes. It is equally important to recognize and address the systemic issues that contribute to conflict. In this chapter, we will explore the significance of addressing systemic issues and strategies for creating lasting change in organizational conflict management.
 

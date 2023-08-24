@@ -1,5 +1,3 @@
-Chapter 7: Leadership Support
-=============================
 
 Effective conflict management in organizations requires strong leadership support. In this chapter, we will explore the role of leadership in supporting organizational conflict management and strategies for fostering a culture of conflict resolution.
 

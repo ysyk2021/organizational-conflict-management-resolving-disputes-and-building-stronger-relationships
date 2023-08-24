@@ -1,5 +1,3 @@
-Chapter 5: Organizational Change and Conflict Prevention
-========================================================
 
 Organizations are constantly evolving, whether it be through growth, downsizing, mergers and acquisitions, or changes in leadership. With change comes a potential for conflict, which can hinder progress and harm relationships. In this chapter, we will explore how organizations can proactively address systemic issues that lead to conflict, implement measures to prevent conflict, and create a culture of conflict resolution.
 
@@ -31,5 +29,4 @@ Creating a culture of conflict resolution involves embedding conflict resolution
 * Celebrating successes: Recognize and celebrate instances where conflicts were successfully resolved, to reinforce the importance of conflict resolution.
 
 By taking a proactive approach to managing conflict, organizations can prevent conflicts from arising and create a culture of conflict resolution that fosters strong relationships among team members.
-
 

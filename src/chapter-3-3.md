@@ -1,4 +1,3 @@
-# The Risks to Employee Morale, Productivity, and Retention
 
 Organizational conflict, if not effectively managed, poses significant risks to employee morale, productivity, and retention. In this chapter, we will explore these risks in detail, highlighting the negative consequences of unresolved conflict and the importance of prioritizing conflict management within organizations.
 
