@@ -10,3 +10,7 @@ At its core, "Organizational Conflict Management" is about fostering positive re
 If you're looking for practical advice and insights on how to manage conflict and build stronger relationships within your organization, "Organizational Conflict Management" is the book for you. With its practical approach and real-world examples, this book is an essential resource for anyone seeking to create a more collaborative, positive, and successful work environment.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
